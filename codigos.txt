@@ -26,7 +26,7 @@ AUTENTICAÇÃO COM SSH
 
 ssh-keygen  -->  cria as chaves ssh, nunca compartilhar a chave privada
 
-cat ` nome da chave `  --> gera a chave para adiciona no GitHub, abrir git bash na pasta inde esta as chaves
+cat ` nome da chave `  --> gera a chave para adiciona no GitHub, abrir git bash na pasta onde esta as chaves
 
 git remote set-url origin ` link ssh `   --> muda o link HTTPS para o link SSH
 
