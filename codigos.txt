@@ -1,0 +1,53 @@
+
+configuração inicial de GIT
+
+configurando nome de usuário --> git config --global user.name "alyssonsouza"
+
+configurando email --> git config --global user.email "aliso.1souzw@gmail.com"
+
+listando para ver se pegou --> git config --list
+
+
+git clone ""  --> clona o repositório da nuvem para a maquina
+
+git add  --> adiciona as alterações feitas
+
+git status  --> ver se tem alguma alteração feita
+
+git commit -m ""  --> registra a alteração feita
+
+git push origin main  --> cola as alterações no GitHub no repositório, um pedido de altenticação e feita para conectar com o gitHub
+
+
+
+AUTENTICAÇÃO COM SSH
+
+
+ssh-keygen  -->  cria as chaves ssh, nunca compartilhar a chave privada
+
+cat ` nome da chave `  --> gera a chave para adiciona no GitHub, abrir git bash na pasta inde esta as chaves
+
+git remote set-url origin ` link ssh `   --> muda o link HTTPS para o link SSH
+
+
+
+................................CRIANDO BRANCH, COPIA DE ARQUIVOS PARA MODIFICAÇÃO SEM RISCOS DE PERDAS OU ERROS
+
+git branch "Nome da branch"  -->^^^^^^^^^^^^^^<
+
+git checkout "Nome da branch" --> entrando na branch para fazer modificações
+
+git checkout main --> saindo da branch e entrando na ramificação principal ( MAIN ) { E PRECISO ENTRAR NA MAIN PARA EXECUTAR MERGE }
+
+git merge "nome da branch" --> enviando as alterações da branch para a main
+
+
+
+
+
+
+
+
+
+
+
