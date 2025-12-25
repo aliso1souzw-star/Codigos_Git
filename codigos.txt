@@ -1,4 +1,5 @@
 
+
 configuração inicial de GIT
 
 configurando nome de usuário --> git config --global user.name "alyssonsouza"
@@ -45,9 +46,3 @@ git merge "nome da branch" --> enviando as alterações da branch para a main
 
 
 ALTERANDO
-
-
-
-
-
-
