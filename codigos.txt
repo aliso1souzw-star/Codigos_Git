@@ -42,7 +42,7 @@ git checkout main --> saindo da branch e entrando na ramificação principal ( M
 
 git merge "nome da branch" --> enviando as alterações da branch para a main
 
-git branch -d "nome_da_branc" --> apaga uma branch
+git branch -d "nome_da_branch" --> apaga uma branch
 
 
 
