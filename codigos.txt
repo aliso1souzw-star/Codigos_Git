@@ -44,7 +44,7 @@ git merge "nome da branch" --> enviando as alterações da branch para a main
 
 
 
-
+ALTERANDO
 
 
 
