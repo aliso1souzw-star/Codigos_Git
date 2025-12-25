@@ -1,6 +1,6 @@
 
 
-configuração inicial de GIT
+CONFIGURAÇÃO INICIAL DE GIT
 
 configurando nome de usuário --> git config --global user.name "alyssonsouza"
 
