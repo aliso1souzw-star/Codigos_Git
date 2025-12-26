@@ -45,6 +45,9 @@ git merge "nome da branch" --> enviando as alterações da branch para a main
 git branch -d "nome_da_branch" --> apaga uma branch
 
 
+ALTERAR OU CRIAR PROJETOS PARA TERCEIROS USANDO FORK
+
+
 
 
 
