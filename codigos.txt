@@ -34,6 +34,7 @@ git remote set-url origin ` link ssh `   --> muda o link HTTPS para o link SSH
 
 ................................CRIANDO BRANCH, COPIA DE ARQUIVOS PARA MODIFICAÇÃO SEM RISCOS DE PERDAS OU ERROS
 
+
 git branch "Nome da branch"  -->^^^^^^^^^^^^^^<
 
 git checkout "Nome da branch" --> entrando na branch para fazer modificações
@@ -42,10 +43,17 @@ git checkout main --> saindo da branch e entrando na ramificação principal ( M
 
 git merge "nome da branch" --> enviando as alterações da branch para a main
 
-git branch -d "nome_da_branch" --> apaga uma branch
+git branch --> lista todas as branch
+
+git branch -d "nome_da_branc" --> apaga uma branch
 
 
 
 
+USANDO TAG PARA CRIAR VERSÕES PARA OS PROJETOS
 
+
+git tag -a v1.0 -m "Versao 1.0"  -->  criando versão para o projeto
+
+git push origin v1.0  --> colocando a versão no GitHub
 
