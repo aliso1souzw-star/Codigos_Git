@@ -58,7 +58,3 @@ git tag -a v1.0 -m "Versao 1.0"  -->  criando versão para o projeto
 git push origin v1.0  --> colocando a versão no GitHub
 
 
-
-
-
-  EDITADO 
