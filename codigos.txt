@@ -66,3 +66,20 @@ ABRIR TERMINAL NO CODESPACES E COLOCAR --> python -m http.server
 
 
 
+
+
+
+
+
+................ ***** ROTAS
+
+Config --> routes.php
+
+Controllers --> HomeController.php
+
+
+
+
+
+
+
